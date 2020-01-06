@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.DecimalFormat;
 
-public class test {
+public class GuitarSearchTestDrive {
     public static void main(String arg[]) {
         DecimalFormat df = new DecimalFormat("#.00");
         Inventory inventory = new Inventory();
