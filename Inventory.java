@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 
-public class Inventory {
+class Inventory {
     private List<Instrument> inventory;
 
     public Inventory() {

@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class InstrumentSpec {
+class InstrumentSpec {
     private Map<String, Object> properties;
 
     public InstrumentSpec(Map<String, Object> properties) {
